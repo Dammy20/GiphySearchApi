@@ -1,0 +1,62 @@
+*{
+    background-color: black;
+}
+#images{
+    width: 180px;
+    height: 140px;
+}
+#cover{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    
+}
+.main{
+    width: 15%; margin-top: 20px;
+   
+}
+.imput{
+    width: 860px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 68px;
+    
+    background-color: white;
+    box-shadow: 0 0 20px black;
+    outline: none;
+  
+
+}
+#giphy{
+    color: white;
+    font-size: 200%;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+#div9{
+    display: flex;
+    justify-content: space-between;
+}
+span{
+    color: white;
+    font-weight: 600;
+    font-size: 100%;
+}
+
+.btn1{
+    background-color: red;
+    color: white;
+    width: 75px;
+    height: 35px;
+    border-radius: 3px;
+    margin-top: -8px;
+}
+.div5{
+    margin-top: 18px;
+    display: flex;
+    gap: 30px;
+    margin-right: 280px;
+}
+
+
+
